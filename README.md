@@ -1,19 +1,16 @@
 # grupo1
 Repositório a ser utilizado na matéria de V&V
 
-Template para Documentação de Requisitos na Forma de Casos de Uso:
+Alunos:
+Ayrton Denner
+Bruno Martins de Carvalho
+Higor Quintão
+Kaio Magalhaes
+Romulo Alves
 
-  1. Nome
-  2. Identificador
-  3. Importância
-  4. Sumário
-  5. Ator Primário
-  5.1. Atores Secundários
-  6. Pré-condições
-  7. Fluxo Principal
-  8. Fluxos Alternativos
-  9. Fluxos de Exceção
-  10. Pós-condições
-  11. Regras de Negócio
-  12. Histórico
-  13. Notas de Implementação
+Responsável    - Caso de Uso;
+Ayrton Denner  - CSU01
+Bruno Carvalho - CSU02, CSU04
+Higor Quintão  - CSU03, CSU09
+Kaio Magalhaes - CSU05, CSU06
+Romulo Alves   - CSU07, CSU08
